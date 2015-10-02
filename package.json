@@ -1,0 +1,23 @@
+{
+  "name": "Node_Tuts",
+  "version": "0.0.1",
+  "description": "building a node project from scratch",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mugizico/Node_Tuts.git"
+  },
+  "keywords": [
+    "node",
+    "meteor"
+  ],
+  "author": "Jean Paul Mugizi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mugizico/Node_Tuts/issues"
+  },
+  "homepage": "https://github.com/mugizico/Node_Tuts"
+}
